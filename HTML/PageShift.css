@@ -1,0 +1,316 @@
+body{
+	background-image: url('boo.png');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.first{
+background-color: black; height: 50px; 
+}
+.firsth2{
+	 color: white;float:left;      margin-left: 16px;     margin-top: 11px; 
+}
+.firsth3{
+	color: dimgrey; float:left; margin-left: 12px;     margin-top: 14px;
+}
+.firsta1{
+	    font-size: 29px; text-decoration: none;
+    color: grey; margin-left: 485px;
+}
+.firsta2{
+	    font-size: 29px;
+    color: grey;margin-left: 18px;text-decoration: none;
+}
+.firsta3{
+	    font-size: 29px;
+    color: grey;margin-left: 18px; text-decoration: none;
+}
+.firsta4{
+	    font-size: 29px;
+    color: grey;margin-left: 18px;text-decoration: none;
+}
+.second{
+	margin: 100px; 
+}
+.secondp1{ color: white;
+	    font-size: 45px;
+    text-align: center; display: justify-content;
+}
+.seconda1{color: white;
+}
+.seconda2{color: white;
+}
+.seconda3{color: white;
+}
+.seconda4{color: white;
+}
+.seconda5 h2{background-color: red;
+    /* width: 281px; */
+    /* height: 109px; */
+    width: 355px;
+    margin-left: 461px;
+    height: 88px;}
+.seconda5{color: white;
+	text-align: center;
+    font-size: 44px;     text-decoration: none;
+}
+.third{
+    margin: 145px;         height: 402px;
+}
+.third1{    background-color: black;    margin: 17px;
+ float: left; width: 25%;     padding: 24px;
+}
+
+.third1p1{ color: white;
+    text-align: center;
+    margin: 52px;
+}
+.third1a1{text-decoration: none;}
+.third1a1 h2{    text-align: center; text-decoration: none;
+color: white; background-color: red; border-radius: 5px;     width: 152px;
+    margin-left: 72px;
+}
+.third2{    background-color: black;
+float: left;width: 25%;    padding: 24px;    margin: 17px; 
+}
+.third2p1{
+    text-align: center;
+    margin: 52px; color: white;
+}
+.third2a1{text-decoration: none;}
+.third2a1 h2{    text-align: center;text-decoration: none;
+color: white;	background-color: red;
+    border-radius: 5px;
+    width: 152px;
+    margin-left: 72px;
+}
+.third3{    background-color: black;    margin: 17px;
+float: left;width: 25%;    padding: 24px;
+}
+.third3p1{
+    text-align: center; color: white;
+    margin: 52px;
+}
+.third3a1{text-decoration: none;}
+.third3a1 h2{    text-align: center; color: white;text-decoration: none;
+	background-color: red;
+    border-radius: 5px;
+    width: 152px;
+    margin-left: 72px;
+}
+.nthird{
+    margin: 145px;          height: 402px;
+}
+.nthird1{    background-color: black;    margin: 17px;
+ float: left; width: 25%;     padding: 24px;
+}
+
+.nthird1p1{
+    text-align: center; color: white;
+    margin: 52px;
+}
+.nthird1a1{text-decoration: none;}
+.nthird1a1 h2{    text-align: center; color: white;text-decoration: none;
+background-color: red;
+    border-radius: 5px;
+    width: 152px;
+    margin-left: 72px;
+}
+.nthird2{    background-color: black;    margin: 17px;
+float: left;width: 25%;    padding: 24px;
+}
+.nthird2p1{ color: white;
+    text-align: center;
+    margin: 52px;
+}
+.nthird2a1{text-decoration: none;}
+.nthird2a1 h2{    text-align: center; color: white;text-decoration: none;
+	background-color: red;
+    border-radius: 5px;
+    width: 152px;
+    margin-left: 72px;
+}
+.nthird3{    background-color: black;    margin: 17px;
+float: left;width: 25%;    padding: 24px;
+}
+.nthird3p1{ color: white;
+    text-align: center;
+    margin: 52px;
+}
+.nthird3a1{text-decoration: none;}
+.nthird3a1 h2{    text-align: center; color: white;text-decoration: none;
+	background-color: red;
+    border-radius: 5px;
+    width: 152px;
+    margin-left: 72px;
+}
+.third1i1
+{    width: 302px;
+        
+}
+.third2i1
+{    width: 302px;
+	        
+}
+.third3i1
+{           width: 302px;
+	
+}
+.nthird1i1
+{       
+	    width: 302px;
+}
+.nthird2i1
+{          width: 302px;
+	
+}
+.nthird3i1
+{            width: 302px;
+	
+}
+.five{ margin: 92px;
+
+}
+.five1{    float: left; width: 45%;    background-color: black;    margin: 16px;
+	
+}
+.five1i1{    float: left;
+    width: 48px;margin-top: 14px;
+    margin-left: 63px;
+	
+}
+.five1h1{ text-align: center; color: white;
+	
+}
+.five1p1{    margin: 58px; color: white;
+	
+}
+.five2{    float: left;width: 45%;    background-color: black;    margin: 16px;
+	
+}
+.five2i1{    float: left;
+    width: 48px;
+    margin-left: 63px;margin-top: 14px;
+	
+}
+.five2h1{text-align: center;color: white;
+	
+}
+.five2p1{    margin: 58px;
+	color: white;
+}
+.nfive{
+margin: 92px;
+}
+.nfive1{    float: left;width: 45%;    margin: 16px;
+	    background-color: black;
+}
+.nfive1i1{    float: left;
+    width: 48px;
+    margin-left: 63px;margin-top: 14px;
+	
+}
+.nfive1h1{text-align: center;color: white;
+	
+}
+.nfive1p1{    margin: 58px;color: white;
+	
+}
+.nfive2{    float: left;width: 45%;    background-color: black;    margin: 16px;
+	
+}
+.nfive2i1{    float: left;
+    width: 48px;margin-top: 14px;
+    margin-left: 63px;
+	
+}
+.nfive2h1{text-align: center;color: white;
+	
+}
+.nfive2p1{    margin: 58px;color: white;
+	
+}
+.lastdiv{
+	    margin-top: 2px;    margin: -8px;
+
+}
+form{
+    background-color: crimson;
+    padding: 484px;
+    margin-top: 688px;    height: 0px;
+
+}
+form h1{
+	    margin-top: -372px;
+    text-align: center;
+    color: white;
+    font-size: 37px;
+}
+form h3{
+	text-align: center;
+    color: white;
+}
+form input{
+	    border-radius: 8px;
+
+    width: 657px;
+    height: 54px;
+    margin-left: -45px;
+margin-top: 20px;
+    font-size: 27px;
+
+}
+form textarea{width: 657px;    border-radius: 8px;
+
+    margin-left: -44px;
+    /* padding: 18px; */
+    margin-top: 20px;
+    height: 262px;
+    font-size: 27px;
+	
+}
+form a{
+	    text-decoration: none;
+}
+form a h2{    text-align: center;
+    font-size: 42px;    border-style: solid;     width: 267px;
+    margin-left: 142px;
+    /* border: 2px; */
+    /* text-decoration: none; */
+    color: white;
+    padding: 4px;
+    border: 1px solid white;
+    /* border-color: white; */
+    /* border: aqua;*/
+	
+}
+.last{background-color: black;
+    padding: 0px;
+    margin: -8px;
+    margin-top: -16px;
+    height: 246px;
+    margin-bottom: -25px;
+
+}
+.last p{
+	color: darkgray;
+    text-align: center;
+    margin-top: 16px;
+    margin: 16px;
+    padding: 77px;
+}
+.last a{    color: gainsboro;
+	
+}
+ .f1{
+	    width: 31px;    margin-left: 673px;
+}
+ .f2{
+    width: 31px;    margin-left: 11px;
+}
+ .f3{
+	    width: 31px;    margin-left: 11px;
+}
+.last{
+	
+}

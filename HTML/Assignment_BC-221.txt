@@ -1,0 +1,38 @@
+                        Assignment (BC-221)
+                    Fundamentals Of Microbiology
+Jaswant Singh 
+17035022
+Ceramic Engineering
+
+
+Answer-1
+ A roll-tube method was developed in which agar medium was distributed  as a thin layer over the internal surface of test tubes charged with an  anaerobic atmosphere for the isolation of obligately anaerobic bacteria  of the rumen. In the roll-tube method, exposure of bacteria and culture  medium to air is avoided by displacing the air in the culture vessel  with an oxygen-free gas, such as carbon dioxide, hydrogen, nitrogen, or  mixtures of these gases. Carbon dioxide is the gas of choice because it  is heavier than air, relatively cheap, and valuable in buffering.  Vessels are stoppered under conditions preventing access of air. The  cultures require no special incubators and can be removed and examined  with no anaerobic precautions if kept stoppered. If opened,  anaerobiosis can be continuously maintained during necessary  manipulations, and the culture again closed without exposure to oxygen.
+
+
+Answer-2
+ The bacterial growth curve represents the number of live cells in a  bacterial population over a period of time.
+
+
+ Lag Phase: This initial phase is characterized by cellular activity but not growth. A small group of cells are placed in a nutrient rich medium that allows them to synthesize proteins and other molecules necessary for replication. These cells increase in size, but no cell division occurs in the phase.
+Exponential (Log) Phase: After the lag phase, bacterial cells enter the exponential or log phase. This is the time when the cells are dividing by binary fission and doubling in numbers after each generation time. Metabolic activity is high as DNA, RNA, cell wall components, and other substances necessary for growth are generated for division. It is in this growth phase that antibiotics and disinfectants are most effective as these substances typically target bacteria cell walls or the protein synthesis processes of DNA transcription and RNA translation.
+Stationary Phase: Eventually, the population growth experienced in the log phase begins to decline as the available nutrients become depleted and waste products start to accumulate. Bacterial cell growth reaches a plateau, or stationary phase, where the number of dividing cells equal the number of dying cells. This results in no overall population growth. Under the less favorable conditions, competition for nutrients increases and the cells become less metabolically active. Spore forming bacteria produce endospores in this phase and pathogenic bacteria begin to generate substances (virulence factors) that help them survive harsh conditions and consequently cause disease.
+
+Death Phase: As nutrients become less available and waste products increase, the number of dying cells continues to rise. In the death phase, the number of living cells decreases exponentially and population growth experiences a sharp decline. As dying cells lyse or break open, they spill their contents into the environment making these nutrients available to other bacteria. This helps spore producing bacteria to survive long enough for spore production. Spores are able to survive the harsh conditions of the death phase and become growing bacteria when placed in an environment that supports life.
+
+
+Answer-3
+ Biofilm formation is a process whereby microorganisms irreversibly attach to and grow on a surface and produce extracellular polymers that facilitate attachment and matrix formation, resulting in an alteration in the phenotype of the organisms with respect to growth rate and gene transcription.
+
+Biofilms are multi-cellular communities formed by bacteria, and they consist of bacteria encased within a non-crystalline extracellular matrix (ECM) of proteins, polysaccharides, and small molecules. Biofilm formation provides increased protection of bacteria from antibiotics and host defenses.
+ One common example of a biofilm dental plaque, a slimy buildup of bacteria that forms on the surfaces of teeth. Pond scum is another example.
+
+Answer-5
+Synthetic--
+A culture medium consisting only of known mixtures of chemical compounds (such as salts, sugars)
+Example-- 
+Glucose-salts media is an example of a synthetic media. It consists of inorganic components such as, ammonium sulfate, calcium chloride, sodium phosphate, magnesium nitrate and potassium hypophosphate. To get adequate growth an enormous number of additives may be necessary.
+
+Complex--
+A complex (undefined) medium (Table 5a and 5b) is one in which the exact chemical constitution of the medium is not known. ... Chemically-defined media are of value in studying the minimal nutritional requirements of microorganisms, for enrichment cultures, and for a wide variety of physiological studies.
+ Example-- 
+Complex Media- non-synthetic, non-defined and quite rich. Nutrient Agar (NA)is a complex media. It is comprised of peptones (5 grams per liter of water), beef or yeast extract (3 grams per liter of water) and agar (15 grams per liter of water). Trypticase Soy Agar is another example of a complex media.
